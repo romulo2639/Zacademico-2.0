@@ -1,4 +1,4 @@
-create database zacademico;
+-- create database zacademico;
 
 use zacademico;
 
